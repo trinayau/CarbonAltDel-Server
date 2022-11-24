@@ -1,0 +1,6 @@
+*.env
+.env
+bin/
+lib/
+*.sqlite3
+.vercel
